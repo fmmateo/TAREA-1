@@ -1,0 +1,15 @@
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\Cajeroyor.csprojResolveAssemblyReference.cache
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Menu.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.retiro.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\Cajeroyor.csproj.GenerateResource.Cache
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Consulta.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.deposito.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Pin.resources
+C:\Users\fmmat\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.transaccion.resources
